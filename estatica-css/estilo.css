@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+
+}
+
+p {
+    text-align: center;
+    text-indent: 50px;
+    background-color: azure;
+}
+
+header#cabecalho h1{
+   font-family: Arial, sans-serif;
+    font-size: 30pt;
+    color: #606060;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+
+}
+
+header#cabecalho h2{
+    font-family: Arial, sans-serif;
+    font-size: 15pt;
+    color: #888888;
+}
+
+header#cabecalho {
+    text-align: center;
+    border-bottom: 1px black solid;
+}
